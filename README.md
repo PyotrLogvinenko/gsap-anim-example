@@ -2,4 +2,4 @@
 
 Just copy files to your folder and start index.html
 
-Live: 
+Live: https://pyotrlogvinenko.github.io/gsap-anim-example/ – don't forget to click a button
